@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "val",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"20TransientStorage.sol": "TestStorage"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"20TransientStorage.sol": {
+			"keccak256": "0xc6d1660c51aea645bac1c2f3943e98d7b125758fff277701c16b4158fbc71f32",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8e8b7aff7857bc4273e088ce05782d668cdac1a1bf50d700473d93b0244f10b0",
+				"dweb:/ipfs/QmbJHh8YSvpjcAiHAnEezeSgL8n4ZZNQasN6vA1a1K51mn"
+			]
+		}
+	},
+	"version": 1
+}
